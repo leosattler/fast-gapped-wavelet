@@ -46,5 +46,5 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 ____________________________________________________________
 #### Version History:  
-> 1.0 - December 2, 2020  
+> 1.0 - December 2nd, 2020  
 - release
