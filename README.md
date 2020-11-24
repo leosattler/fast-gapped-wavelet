@@ -1,10 +1,9 @@
 # Fast Algorithm for Gapped Wavelet
-## CAP -- 384-3 Research Project
+### CAP-384-3 Research Project
 
 *Randall Vargas*
 *Rubens Sautter*
 *Leonardo Cassara*
-*October 5, 2019*  
 *Instituto Nacional de Pesquisas Espaciais*  
 ____________________________________________________________
 
@@ -40,5 +39,5 @@ If you have any questions or remarks, please contact the authors:
 ____________________________________________________________
 
 #### Version History:  
-> 1.0 - 2 December 2020  
+> 1.0 - December 2, 2020  
 - release
