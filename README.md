@@ -1,7 +1,7 @@
 # Fast Algorithm for Gapped Wavelet
 ## CAP-384-3 Research Project 
 
-### Authors:
+#### Authors:
 *Randall Vargas*  
 *Rubens Sautter*  
 *Leonardo Cassara*  
