@@ -29,7 +29,7 @@ ____________________________________________________________
 
 ____________________________________________________________
 #### References:  
-This project is part of CAP--384-3 course evaluation. Alongside this program, the following report was presented to Prof. Margarete O. Domingues:  
+This project is part of CAP-384-3 course evaluation. Alongside this program, the following report was presented to Prof. Margarete O. Domingues:  
 <https://www.overleaf.com/read/qxmhctrpzvbf>.
 
 __________________________________________________
