@@ -1,13 +1,12 @@
-# Fast Algorithm for Gapped Wavelet
-### CAP-384-3 Research Project 
+# Fast Algorithm for Gapped Wavelet  
+### CAP-384-3 Research Project  
+#### *Instituto Nacional de Pesquisas Espaciais*  
 
 #### Authors:
 *Randall Vargas*  
 *Rubens Sautter*  
 *Leonardo Cassara*  
-
-#### *Instituto Nacional de Pesquisas Espaciais*  
-____________________________________________________________
+__________________________________________________
 #### About: 
 
 SAfELand is a routine for landslide susceptibility analysis 
